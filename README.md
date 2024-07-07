@@ -1,7 +1,7 @@
 📊 Projeto Interativo de Análise de Vendas com Excel e Python 🚀
 
 
-Olá, conexões! Estou animado em compartilhar com vocês um projeto que desenvolvi recentemente, com foco em otimizar o gerenciamento de vendas e análise de dados em ambientes empresariais, o qual não só automatiza processos cruciais, mas também melhora a eficiência operacional usando ferramentas simples e acessíveis.
+Otimize o gerenciamento de vendas e análise de dados em ambientes empresariais, automatizando processos cruciais e melhorando a eficiência operacional usando ferramentas simples e acessíveis.
 
 Imagine uma empresa que lida diariamente com o desafio de gerenciar seu estoque de forma eficiente enquanto monitora o desempenho das vendas ao longo do tempo. O desafio é manter um registro detalhado e analisável das transações de vendas, mesmo com o grande volume de dados espalhados pela planilha de controle, concomitante com garantir que o estoque esteja sempre atualizado e os dados estejam prontamente disponíveis para análise.
 
